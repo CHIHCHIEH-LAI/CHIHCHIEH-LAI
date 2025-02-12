@@ -5,8 +5,7 @@
   - [Simplied Bitcoin](https://github.com/CHIHCHIEH-LAI/simplified-bitcoin) (Golang, Bitcoin, Distributed System)
   - Cross-Chain Bridge between Bitcoin and Ethereum (Smart Contract, Blockchain)
     - [BTC Watcher](https://github.com/CHIHCHIEH-LAI/btcwatcher) (Golang, Bitcoin)
-    - Relayer Service (API, Golang)
-    - Smart Contract (Smart Contract, Solidity)
+    - Relayer Service (API, Golang, Smart Contract, Solidity)
 - 🌱 I’m currently learning **System Design, Blockchain**
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

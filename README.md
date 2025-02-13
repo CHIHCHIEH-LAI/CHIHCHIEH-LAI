@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on
   - [Simplied Bitcoin](https://github.com/CHIHCHIEH-LAI/simplified-bitcoin) (Golang, Bitcoin, Distributed System)
   - Cross-Chain Bridge between Bitcoin and Ethereum (Smart Contract, Blockchain)
-    - [BTC Watcher](https://github.com/CHIHCHIEH-LAI/btcwatcher) (Golang, Bitcoin)
+    - [Stream-Based BTC Watcher](https://github.com/CHIHCHIEH-LAI/btcwatcher) (Golang, Bitcoin)
     - Relayer Service (API, Golang, Smart Contract, Solidity)
 - 🌱 I’m currently learning **System Design, Blockchain**
 

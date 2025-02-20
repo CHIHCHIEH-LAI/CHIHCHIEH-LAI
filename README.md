@@ -6,6 +6,7 @@
   - Cross-Chain Bridge between Bitcoin and Ethereum (Smart Contract, Blockchain)
     - [Stream-Based BTC Watcher](https://github.com/CHIHCHIEH-LAI/btcwatcher) (Golang, Bitcoin)
     - Relayer Service (API, Golang, Smart Contract, Solidity)
+  - Ｂuilding CI pipeline with GitHub actions, Jenkins and PyPI server (work)
 - 🌱 I’m currently learning **System Design, Ethereum, CI**
 
 <div> <a href="https://github.com/CHIHCHIEH-LAI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
